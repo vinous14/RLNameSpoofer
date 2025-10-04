@@ -1,0 +1,24 @@
+# GUI Framework
+customtkinter>=5.2.0
+
+# Image processing for logo/icons
+Pillow>=10.0.0
+
+# Proxy and HTTP interception
+mitmproxy>=10.0.0
+
+# Additional image format support (optional but recommended)
+olefile>=0.46
+
+# DLL Injector GUI dependencies
+# tkinter - built-in to Python (main GUI framework)
+# threading - built-in (for async operations)
+# subprocess - built-in (for C++ injector communication)
+# logging - built-in (for error handling and logging)
+
+# Windows registry operations (built-in, but listed for clarity)
+# winreg - built into Python on Windows
+
+# System operations (built-in to Python)
+# sys - built-in
+# os - built-in
